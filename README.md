@@ -1,7 +1,7 @@
 # erkanoptcodes
 Segmentation Code :
-% clc
-% clear
+ clc
+ clear
 % % im_bin_final: mask image (logical)
 % % im: original image (uint8)
 % % im2: original image grayscale (uint8)
